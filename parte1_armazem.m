@@ -69,4 +69,3 @@ custo_quebra =  365 * C2 * (r/q_asterisco) *  E_DDLT_maior_S_3;
 custo_encomenda =  365 * C3 * r/q_asterisco; 
 custo_total = custo_posse + custo_quebra + custo_encomenda;
 
-lucro_estimado = q_asterisco * numero_encomendas * preco_venda - custo_total_jogo
